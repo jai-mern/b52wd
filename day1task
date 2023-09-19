@@ -1,3 +1,5 @@
 console.log("hello jaihind")
   var i= "jai"
   console.log(i);
+var 2 = "jai"
+console.log("jaihind");
